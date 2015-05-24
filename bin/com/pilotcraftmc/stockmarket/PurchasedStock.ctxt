@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=stock\ amount
+comment0.target=PurchasedStock(yahoofinance.Stock,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getSymbol()
+comment2.params=
+comment2.target=double\ getPrice()
+comment3.params=
+comment3.target=int\ getAmount()
+comment4.params=amount
+comment4.target=boolean\ sell(int)
+comment5.params=amount
+comment5.target=void\ setAmount(int)
+comment6.params=price
+comment6.target=void\ setPrice(double)
+numComments=7
